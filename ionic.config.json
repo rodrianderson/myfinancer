@@ -1,8 +1,0 @@
-{
-  "name": "myfinancer",
-  "app_id": "3e8a9b89",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
